@@ -1,20 +1,20 @@
 {
-  "title": "Burns Family",
+  "title": "Family",
   "images": [
     {
       "name": "B Gardens",
       "url": "https://raw.githubusercontent.com/gurgles-1/Odin-Profiles/main/b-gardens-avatar.png"
     },
     {
-      "name": "Adrienne",
+      "name": "P1",
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bull_Moose_Portrait_%2841410522174%29.jpg/1280px-Bull_Moose_Portrait_%2841410522174%29.jpg"
     },
     {
-      "name": "Merna",
+      "name": "P2",
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AwesomePossum-AmericanOpossum.jpg"
     },
     {
-      "name": "Evan",
+      "name": "P3",
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Green_sea_turtle_portrait.JPG/1280px-Green_sea_turtle_portrait.JPG"
     }
   ]
